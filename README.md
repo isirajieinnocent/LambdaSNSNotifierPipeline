@@ -1,6 +1,7 @@
 **The Architecture**
 
-![image](https://github.com/user-attachments/assets/f28d3f0b-343e-43df-8d10-79da7e1e33fe)
+![image](https://github.com/user-attachments/assets/15374a0b-867d-4e70-895b-a2d1d3338fa5)
+
 
 **project Overview**
 
