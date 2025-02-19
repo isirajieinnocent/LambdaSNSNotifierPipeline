@@ -1,6 +1,6 @@
 import csv  # for handling CSV files
 import boto3  # for AWS SDK
-from datetime import datetime  # for date operations
+from datetime import datetime  
 
 
 #Stage 1: API Call
