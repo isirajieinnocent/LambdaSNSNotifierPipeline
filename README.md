@@ -2,10 +2,11 @@
 
 ![image](https://github.com/user-attachments/assets/15374a0b-867d-4e70-895b-a2d1d3338fa5)
 
-   <h1>Project Overviewg</h1>
+<h1>Project Overview</h1>
 This project showcases my ability to design and implement a serverless data processing pipeline using AWS services. It automates the ingestion, validation, and categorization of billing data uploaded to an Amazon S3 bucket, ensuring error handling and real-time notifications.
 
-Solution Overview
+
+<h1>Solution Overview</h1>
 AWS Lambda validates CSV files upon upload, checking:
 
 Date formats (YYYY-MM-DD).
@@ -26,7 +27,7 @@ Valid files are transferred to a Processed Bucket.
 
 Original files are deleted post-processing.
 
-Key Technologies
+### Key Technologies
 AWS S3: Storage and event triggers.
 
 AWS Lambda: File validation and processing.
